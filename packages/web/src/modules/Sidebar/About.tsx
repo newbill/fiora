@@ -62,7 +62,7 @@ function About(props: AboutProps) {
                                 target="_black"
                                 rel="noopener noreferrer"
                             >
-                                DAI
+                                在下小弋
                             </a>
                         </li>
                     </ul>
