@@ -62,7 +62,7 @@ function About(props: AboutProps) {
                                 target="_black"
                                 rel="noopener noreferrer"
                             >
-                                在下小弋
+                                萌客
                             </a>
                         </li>
                     </ul>
